@@ -60,7 +60,7 @@ img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for
 <img src="https://img.shields.io/badge/Kubernetes-00599C?style=flat-square&logo=Kubernetes&logoColor=white"/></a> &nbsp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyoungjin&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungjin&show_icons=true&theme=cobalt)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoungjin&show_icons=true&theme=cobalt) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyoungjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </p>
